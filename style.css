@@ -1,0 +1,25 @@
+.header{
+width: 600px;
+height: 100px;
+background-color:greenyellow;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.menu{
+    width: 600px;
+    height: 70px;
+    background-color: pink;
+    margin: 20px;
+       
+}
+
+.mainconter{
+    width:600px;
+    height:300px;
+    background-color:green;
+}
+.footer{
+  width: 600px;
+  height: 50px;
+  background-color:plum ;  
+}
