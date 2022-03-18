@@ -1,6 +1,13 @@
 *{padding: 0px;margin: 0px;}
+body{
+    background-color: lightpink;
+}
+.main{
+    margin: 0px 380px;
+    width: 600px;
+}
 .header{
-width: 600px;
+
 background-color:greenyellow;
 padding-top: 20px;
 padding-bottom: 20px;
@@ -29,16 +36,27 @@ transition: 1s;
     color: #fff;
 }
 
+.scroll_news{
+    background: pink;
+    padding: 10px 0;
+}
+.maincontent{
 
-.mainconter{
-    width:600px;
     background-color:skyblue;
 }
-.mainconter p{
+.maincontent p{
     padding: 10px;
     text-align: justify;
 }
+.maincontent img{
+    width: 300px;
+    float: left;
+    padding-right: 10px;
+}
+
 .footer{
-  width: 600px;
-  background-color:plum ;  
+  
+  background-color:plum ;
+  padding: 10px 0px;
+  
 }
